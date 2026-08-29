@@ -1,6 +1,6 @@
 # 🔤 ASCII Text Analyzer
 
-A lightweight C++ command-line utility that takes a line of text and displays the ASCII value of every character.
+A lightweight C++ command-line utility that takes a line of text and displays the ASCII value of every character...
 
 Built as a small hands-on project to understand how characters are represented internally while practicing **C++ strings, loops, character handling, and type casting**.
 
